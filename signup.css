@@ -1,0 +1,25 @@
+body{
+	background-image:url(../images/login1.jpg);
+	background-size:cover;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+h1{
+	font-size: 40px;
+}
+.form_control{
+	min-height: 41px;
+	min-width: 400px;
+	border-color: #00008B;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+.form_control:hover{
+	border-color: #DC143C;
+	min-height: 50px;
+	min-width: 450px;
+}
+input[type="submit"]{
+	background-color: #00FF00;
+}
